@@ -11,4 +11,11 @@ Minor problem: there's one trace that is bridged by the heatsink here. Using a n
 
 Recommendation: add a switch to the UV circuit as well. Also perhaps use larger switches than those specced here if you intend to switch the active lights often.
 
+Designed for:
+* QLUV07EYGE
+* JE2835 3V N CLASS FAR RED
+* Samsung LM302N White, Cool 6500K 
+* Samsung LM302N WARM WHT 2700K 1212
+* GT PSLR31.13-LUMQ-T1T2-1-150-R18 LED DURIS S5 GREEN 540NM SMD
+
 ![plot](./img/light.jpg)
