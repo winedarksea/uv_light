@@ -10,3 +10,5 @@ Problem: the comparator circuit for voltage sensing doesn't work properly, and n
 Minor problem: there's one trace that is bridged by the heatsink here. Using a non conductive thermal pad between the pcb and heatsink solves that problem, or redesign.
 
 Recommendation: add a switch to the UV circuit as well. Also perhaps use larger switches than those specced here if you intend to switch the active lights often.
+
+![plot](./img/light.jpg)
