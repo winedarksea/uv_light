@@ -1,4 +1,6 @@
 # uv_light
+Licence: CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+
  Custom Sun Lamp / Full Spectrum Lamp
  
  Background writeup [here](https://syllepsis.live/2024/12/31/light-for-health-and-a-custom-sun-lamp/)
